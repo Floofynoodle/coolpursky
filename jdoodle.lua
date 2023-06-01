@@ -13,259 +13,259 @@ iapc = {
  },
  {
 	"Starter pack",
-	":SNC_00",
+	":SNC00",
  },
  {
 	"Office Cape",
-	":SNC_01",
+	":SNC01",
  },
  {
 	"Santa Hat",
-	":SNC_03",
+	":SNC03",
  },
  {
 	"Bat Cape",
-	":SNC_05",
+	":SNC05",
  },
  {
 	"Pumpkin Head",
-	":SNC_06",
+	":SNC06",
  },
  {
 	"Gratitude Furcape Pack",
-	":SNC_07",
+	":SNC07",
  },
  {
 	"Swing",
-	":SNC_08",
+	":SNC08",
  },
  {
 	"Earth Cape",
-	":SNC_09",
+	":SNC09",
  },
  {
 	"White Flower (Live)",
-	":SNC_10",
+	":SNC10",
  },
  {
 	"KizunaAi Pack (Live)",
-	":SNC_12",
+	":SNC12",
  },
  {
 	"Lantern",
-	":SNC_13",
+	":SNC13",
  },
  {
 	"Witch Hat",
-	":SNC_14",
+	":SNC14",
  },
  {
 	"Web Cape",
-	":SNC_15",
+	":SNC15",
  },
  {
 	"Pumpkin Head+BatCape",
-	":SNC_16",
+	":SNC16",
  },
  {
 	"Days of feast Antlers",
-	":SNC_17",
+	":SNC17",
  },
  {
 	"Snowflake Cape",
-	":SNC_18",
+	":SNC18",
  },
  {
 	"Orange Head",
-	":SNC_19",
+	":SNC19",
  },
  {
 	"Woolhat+Blush mask",
-	":SNC_20",
+	":SNC20",
  },
  {
 	"Fortune Pack",
-	":SNC_21",
+	":SNC21",
  },
  {
 	"Seesaw Pack",
-	":SNC_22",
+	":SNC22",
  },
  {
 	"Tea Set",
-	":SNC_23",
+	":SNC23",
  },
  {
 	"Ocean Cape",
-	":SNC_24",
+	":SNC24",
  },
  {
 	"Ocean Necklace",
-	":SNC_25",
+	":SNC25",
  },
  {
 	"Rainbow hair",
-	":SNC_28",
+	":SNC28",
  },
  {
 	"Prince Scarf",
-	":SNC_29",
+	":SNC29",
  },
  {
 	"Fox Backpack",
-	":SNC_30",
+	":SNC30",
  },
  {
 	"Prince Asteroid Pack",
-	":SNC_32",
+	":SNC32",
  },
  {
 	"Summer Umbrella",
-	":SNC_33",
+	":SNC33",
  },
  {
 	"Summer Hairpin",
-	":SNC_34",
+	":SNC34",
  },
  {
 	"Rabbit Accessory",
-	":SNC_35",
+	":SNC35",
  },
  {
 	"Mischief Antlers",
-	":SNC_36",
+	":SNC36",
  },
  {
 	"Mischief Witch Jumper",
-	":SNC_37",
+	":SNC37",
  },
  {
 	"Mischief Spider Hair",
-	":SNC_38",
+	":SNC38",
  },
  {
 	"Dark Dragon Pumpkin",
-	":SNC_39",
+	":SNC39",
  },
  {
 	"Feast Snow Globe",
-	":SNC_40",
+	":SNC40",
  },
  {
 	"Feast Elder Cape",
-	":SNC_41",
+	":SNC41",
  },
  {
 	"Feast Snowflake Pin",
-	":SNC_42",
+	":SNC42",
  },
  {
 	"Fortune Fish Accessory",
-	":SNC_43",
+	":SNC43",
  },
  {
 	"Fortune Fish Cape",
-	":SNC_44",
+	":SNC44",
  },
  {
 	"Gondola Boat",
-	":SNC_45",
+	":SNC45",
  },
  {
 	"Wisteria Teaset",
-	":SNC_46",
+	":SNC46",
  },
  {
 	"Turtle Neck Pack",
-	":SNC_47",
+	":SNC47",
  },
  {
 	"Turtle Cape",
-	":SNC_48",
+	":SNC48",
  },
  {
 	"Rainbow Earring",
-	":SNC_49",
+	":SNC49",
  },
  {
 	"Rainbow Trousers",
-	":SNC_50",
+	":SNC50",
  },
  {
 	"Triumph Handpan",
-	":SNC_51",
+	":SNC51",
  },
  {
 	"Triumph DunDun",
-	":SNC_52",
+	":SNC52",
  },
  {
 	"Triumph Horn",
-	":SNC_53",
+	":SNC53",
  },
  {
 	"3rd Anniversary Guitar",
-	":SNC_54",
+	":SNC54",
  },
  {
 	"Double Rainbow Flower",
-	":SNC_55",
+	":SNC55",
  },
  {
 	"Rhythm Guitar",
-	":SNC_56",
+	":SNC56",
  },
  {
 	"Fluttering Harp",
-	":SNC_57",
+	":SNC57",
  },
  {
 	"Rainbow Headphones",
-	":SNC_58",
+	":SNC58",
  },
  {
 	"Marshmallow Stand",
-	":SNC_59",
+	":SNC59",
  },
  {
 	"Jellyfish Neck",
-	":SNC_60",
+	":SNC60",
  },
  {
 	"Cat Costume Pack",
-	":SNC_61",
+	":SNC61",
  },
  {
 	"Cat Backpack",
-	":SNC_62",
+	":SNC62",
  },
  {
 	"Aurora Star Horn",
-	":SNC_63",
+	":SNC63",
  },
  {
 	"Runaway Pack",
-	":SNC_64",
+	":SNC64",
  },
  {
 	"Aurora Instrument",
-	":SNC_65",
+	":SNC65",
  },
  {
 	"Aurora Cape",
-	":SNC_66",
+	":SNC66",
  },
  {
 	"Orange Dress",
-	":SNC_67",
+	":SNC67",
  },
  {
 	"Hermit Fluffy Cape",
-	":SNC_68",
+	":SNC68",
  },
  {
 	"Skyball Set",
-	":SNC_69",
+	":SNC69",
  },
 }
 
@@ -343,7 +343,7 @@ function IAP()
     gg.editAll('0', 1)
     gg.clearResults()
     gg.setRanges(gg.REGION_OTHER| gg.REGION_C_ALLOC)
-    gg.searchNumber(':SPASSR', 1,false,gg.SIGN_EQUAL,0, -1)
+    gg.searchNumber(':SPASS', 1,false,gg.SIGN_EQUAL,0, -1)
     gg.getResults(1000)
     gg.editAll(codigoIap, 1)
 	gg.toast("Open The Store")
