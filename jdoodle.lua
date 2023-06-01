@@ -327,7 +327,7 @@ end
 
 function mtd2 ()
 	local Choice = gg.choice(iaps,nil,"Open the store to buy")
-codigoIap = [Choice]
+codigoIap = SNC[Choice]
 if Choice == 1 then
 	os.exit()
 elseif bb == 1 then IAP1()
@@ -343,7 +343,7 @@ function IAP()
     gg.editAll('0', 1)
     gg.clearResults()
     gg.setRanges(gg.REGION_OTHER| gg.REGION_C_ALLOC)
-    gg.searchNumber(':SNC12', 1,false,gg.SIGN_EQUAL,0, -1)
+    gg.searchNumber(':SPASSR', 1,false,gg.SIGN_EQUAL,0, -1)
     gg.getResults(1000)
     gg.editAll(codigoIap, 1)
 	gg.toast("Open The Store")
