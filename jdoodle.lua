@@ -345,7 +345,7 @@ function IAP()
     gg.setRanges(gg.REGION_OTHER| gg.REGION_C_ALLOC)
     gg.searchNumber(':SNC12', 1,false,gg.SIGN_EQUAL,0, -1)
     gg.getResults(1000)
-    gg.editAll('0', 1)
+    gg.editAll('codigoIap', 1)
 	gg.toast("Open The Store")
 	bb = 1
 end
