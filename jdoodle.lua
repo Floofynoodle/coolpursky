@@ -9,7 +9,7 @@ SNC = {}
 iapc = {
  {
 	"Close Script",
-	":SPASSQR",
+	":SPASSR",
  },
  {
 	"Starter pack",
