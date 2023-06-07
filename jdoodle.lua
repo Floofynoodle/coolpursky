@@ -9,7 +9,7 @@ SNC = {}
 iapc = {
  {
 	"Close Script",
-	":SPASSR",
+	":SPASSB",
  },
  {
 	"Starter pack",
@@ -343,7 +343,7 @@ function IAP()
     gg.editAll('0', 1)
     gg.clearResults()
     gg.setRanges(gg.REGION_OTHER| gg.REGION_C_ALLOC)
-    gg.searchNumber(':SPASSQR', 1,false,gg.SIGN_EQUAL,0, -1)
+    gg.searchNumber(':SPASSB', 1,false,gg.SIGN_EQUAL,0, -1)
     gg.getResults(1000)
     gg.editAll(codigoIap, 1)
 	gg.toast("Open The Store")
