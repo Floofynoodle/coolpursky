@@ -313,7 +313,7 @@ end
 function mtd1 ()
 	gg.clearResults()
 	gg.setRanges(gg.REGION_CODE_APP)
-	gg.searchNumber(':season', 1,false, gg.SIGN_EQUAL,0, -1)
+	gg.searchNumber(':SNC65', 1,false, gg.SIGN_EQUAL,0, -1)
 	gg.getResults(1000)
 	gg.editAll(':global', 1)
 	gg.clearResults()
